@@ -1,4 +1,4 @@
-# Machine learning appliqué · 3e année DSI
+
 ## Atelier 2 — Choisir un modèle sur preuves
 
 ---
